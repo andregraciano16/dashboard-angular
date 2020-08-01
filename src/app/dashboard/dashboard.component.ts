@@ -4,6 +4,7 @@ import { Observable } from 'rxjs';
 import { DadosService } from './dados.service';
 
 declare var google: any;
+
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
