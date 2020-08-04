@@ -4,5 +4,4 @@ import { DashboardComponent } from './dashboard.component';
 import { DadosService } from './dados.service';
 
 describe('DashboardComponent', () => {
-
 });
